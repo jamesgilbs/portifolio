@@ -21,6 +21,10 @@ Os dados do Índice Bovespa foram coletados no site Yahoo Finance, com recorte t
 
 <span style="display:block;text-align:center">![](https://i.imgur.com/TicsIYp.png)</span>
 
+<p align="center">
+  <img width="" height="" src="https://i.imgur.com/TicsIYp.png">
+</p>
+
 <span style="display:block;text-align:center">![](https://i.imgur.com/JouAPya.png)</span>
 
 O Índice Bovespa ou IBOVESPA é um indicador representativo de uma carteira teórica das ações 
