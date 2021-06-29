@@ -10,55 +10,72 @@ Alguns exemplos de riscos comuns são: interrupção da produção, perda de inf
 ## Dados
 Os dados do Índice Bovespa foram coletados no site Yahoo Finance, com recorte temporal de 01/01/2008 a 01/06/2021 (n = 162), e periodicidade mensal.
 
-<span style="display:block;text-align:center">![](https://i.imgur.com/TicsIYp.png)</span>
-
 <p align="center">
   <img width="" height="" src="https://i.imgur.com/TicsIYp.png">
 </p>
 
-<span style="display:block;text-align:center">![](https://i.imgur.com/JouAPya.png)</span>
+<p align="center">
+  <img width="" height="" src="https://i.imgur.com/JouAPya.png">
+</p>
 
 O Índice Bovespa ou IBOVESPA é um indicador representativo de uma carteira teórica das ações mais negociadas na Bolsa e, de modo geral, consegue captar o comportamento médio das cotações diárias na Bovespa. 
 
-<span style="display:block;text-align:center">![](https://i.imgur.com/9q24YRw.png)</span>
+<p align="center">
+  <img width="75%" height="75%" src="https://i.imgur.com/9q24YRw.png">
+</p>
 
 O estudo justifica-se pela necessidade de entender o comportamento estatístico do Ibovespa, sobretudo, em momentos de maior incerteza da economia local.
 
 ## Autocorrelação
 É verificado se existe correlação entre os valores passados do Ibovespa com valores atuais. Abaixo pode-se notar que não existe indicação dessa correlação contínua de influência passada com a atual. Apesar da correlção inicalmente ser forte(próximo de 1) observa-se que com o passar dos meses fica cada vez mais fraca essa relação.
 
-<span style="display:block;text-align:center">![](https://i.imgur.com/zitq9NF.png)</span>
+<p align="center">
+  <img width="75%" height="75%" src="https://i.imgur.com/zitq9NF.png">
+</p>
 
-<span style="display:block;text-align:center">![](https://i.imgur.com/YjbJH2l.png)</span>
+<p align="center">
+  <img width="75%" height="75%" src="https://i.imgur.com/YjbJH2l.png">
+</p>
 
 ## Análise da variação dos retornos
 Verifica-se com os indicadores gerados abaixo, as variações ao longo do tempo dos retornos do ativo.
 
-<span style="display:block;text-align:center">![](https://i.imgur.com/GnGeMli.png)</span>
+<p align="center">
+  <img width="" height="" src="https://i.imgur.com/GnGeMli.png">
+</p>
 
-<span style="display:block;text-align:center">![](https://i.imgur.com/BVDwhs9.png)</span>
+<p align="center">
+  <img width="75%" height="75%" src="https://i.imgur.com/BVDwhs9.png">
+</p>
 
 Observa-se alta volatilidade em momentos de crise.
-
-<span style="display:block;text-align:center">![](https://i.imgur.com/gGU7CSx.png)</span>
+<p align="center">
+  <img width="75%" height="75%" src="https://i.imgur.com/gGU7CSx.png">
+</p>
 
 ## O Modelo
 Este é um modelo de previsão de uma série de retornos e das suas volatilidades condicionais (MVE), ambas variáveis possuem componentes estocásticos em suas equações. Foi utilizado a teoria de inferência Bayesiana e algoritmos de simulação MCMC para obter os valores dos parâmetros do modelo.
 
-<span style="display:block;text-align:center">![](https://i.imgur.com/gyx5fTC.png)</span>
+<p align="center">
+  <img width="75%" height="75%" src="https://i.imgur.com/gyx5fTC.png">
+</p>
 
 A análise gráfica mostra períodos de maior variabilidade na época da crise do subprime, em 2008 e 2009, diante das incertezas no cenário internacionais e em 2020, com a incerteza mundial envolvendo a pandemia do Vírus Corona Covid-19 . No restante da série, observa-se alguns curtos 
 períodos de maior variabilidade, no entanto, de menor magnitude, se comparados com os períodos citados anteriormente.
 
 Dados do modelo:
 
-<span style="display:block;text-align:center">![](https://i.imgur.com/F5MPRNg.png)</span>
+<p align="center">
+  <img width="" height="" src="https://i.imgur.com/F5MPRNg.png">
+</p>
 
 Volatilidade estimada dos retornos:
 
-<span style="display:block;text-align:center">![](https://i.imgur.com/DyzPqUL.png)</span>
+<p align="center">
+  <img width="75%" height="75%" src="https://i.imgur.com/DyzPqUL.png">
+</p>
 
 Para análise dos resíduos:
-
-<span style="display:block;text-align:center">![](https://i.imgur.com/M3uxrW9.png)</span>
-
+<p align="center">
+  <img width="75%" height="75%" src="https://i.imgur.com/M3uxrW9.png">
+</p>
