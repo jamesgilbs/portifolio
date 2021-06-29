@@ -21,7 +21,7 @@ O Índice Bovespa ou IBOVESPA é um indicador representativo de uma carteira te�
 O estudo justifica-se pela necessidade de entender o comportamento estatístico do Ibovespa, sobretudo, em momentos de maior incerteza da economia local.
 
 ## Autocorrelação
-É verificado se existe correlação entre os valores passados do Ibovespa com valores atuais. Abaixo pode-se notar que não existe indicação dessa correlação contínua de influência passada com a atual.
+É verificado se existe correlação entre os valores passados do Ibovespa com valores atuais. Abaixo pode-se notar que não existe indicação dessa correlação contínua de influência passada com a atual. Apesar da correlção inicalmente ser forte(próximo de 1) observa-se que com o passar dos meses fica cada vez mais fraca essa relação.
 
 <span style="display:block;text-align:center">![](https://i.imgur.com/zitq9NF.png)</span>
 
