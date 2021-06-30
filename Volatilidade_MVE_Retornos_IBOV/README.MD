@@ -23,7 +23,7 @@ Os dados do Índice Bovespa foram coletados no site Yahoo Finance, com recorte t
 O Índice Bovespa ou IBOVESPA é um indicador representativo de uma carteira teórica das ações mais negociadas na Bolsa e, de modo geral, consegue captar o comportamento médio das cotações diárias na B3. 
 
 <p align="center">
-  <img width="75%" height="75%" src="https://i.imgur.com/9q24YRw.png">
+  <img width="75%" height="75%" src="https://i.imgur.com/QYoSXOk.png">
 </p>
 
 O estudo justifica-se pela necessidade de entender o comportamento estatístico do Ibovespa, sobretudo, em momentos de maior incerteza da economia local.
