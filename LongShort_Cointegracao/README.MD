@@ -25,12 +25,11 @@ Os dados do Índice Bovespa foram coletados no site Yahoo Finance, com recorte t
 
 ## Os pares
 Plotagem dos pares para visualmente analisarmos se existe alguma relação entre eles e se os dados em si são estacionários no tempo.
+Não existe nenhum tipo de estacionaridade neles. Contudo, a visualização sugere que existe uma relação entre os pares.
 
 <p align="center">
   <img width="75%" height="75%" src="https://i.imgur.com/EiybyZZ.png">
 </p>
-
-Não existe nenhum tipo de estacionaridade neles. Contudo, a visualização sugere que existe uma relação entre os pares.
 
 ## Correlação
 Nesse exemplo, vemos que existe uma alta correlação entre os ativos da Petrobras no período de tempo que escolhemos para análise. Se fossemos seguir uma estratégia baseado apenas na correlação, esse resultado estaria nos dizendo para prosseguir com a operação.
