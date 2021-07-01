@@ -3,9 +3,7 @@
 Este modelo foi elaborado com linguagem R, no ambiente do RStudio, para validação do par de ativos como cointegrados. O código utilizado para gerar todos resultados abaixo encontra-se no repositório.
 
 ## O que é Long & Short?
-Quando se está comprado em um determinado ativo A na carteira que se acredita na valorização com o tempo, se está long(comprado) nesse ativo.
-
-O oposto disso é estar short(vendido). Nesse caso, se ganha dinheiro quando um determinado ativo B se desvaloriza.
+Quando se está comprado em um determinado ativo A na carteira que se acredita na valorização com o tempo, se está long(comprado) nesse ativo. O oposto disso é estar short(vendido). Nesse caso, se ganha dinheiro quando um determinado ativo B se desvaloriza.
 
 Essas duas operações podem ser performadas separadamente: pode-se estar comprado no ativo A ou apenas vendido no ativo B. Contudo, existe também a possibilidade de se aproveitar as relações entre dois ativos e, com o dinheiro recebido por vender o ativo B, comprar o ativo A. Nesse caso, a operação recebe o nome de Long & Short.
 
