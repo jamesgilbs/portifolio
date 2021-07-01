@@ -23,28 +23,23 @@ Os dados do Índice Bovespa foram coletados no site Yahoo Finance, com recorte t
   <img width="" height="" src="https://i.imgur.com/UQc2aTX.png">
 </p>
 
+## Os pares
+Plotagem dos pares para visualmente analisarmos se existe alguma relação entre eles e se os dados em si são estacionários no tempo.
+
 <p align="center">
   <img width="75%" height="75%" src="https://i.imgur.com/EiybyZZ.png">
 </p>
-
-## Cointegração
-Os ativos sempre variam com o tempo, e podemos tirar essa dependência para aplicarmos modelos estatisticamente consistentes utilizando cointegração.
-
-A cointegração consistem em analisar o resíduo de uma regressão linear entre os ativos e procurar por estacionariedade nele. 
-
-## Os pares
-Plotagem dos pares para visualmente analisarmos se existe alguma relação entre eles e se os dados em si são estacionários no tempo.
 
 Não existe nenhum tipo de estacionaridade neles. Contudo, a visualização sugere que existe uma relação entre os pares.
 
 ## Correlação
 Nesse exemplo, vemos que existe uma alta correlação entre os ativos da Petrobras no período de tempo que escolhemos para análise. Se fossemos seguir uma estratégia baseado apenas na correlação, esse resultado estaria nos dizendo para prosseguir com a operação.
 
-Porém, como vimos anteriormente, a correlação de pares não-estacionários na verdade varia com o tempo. Nesse sentido, essa correlação pode deixar de ser verdadeira em um próximo período. Por isso, vamos aprender a calcular se esses ativos estão na verdade.
-
 <p align="center">
   <img width="" height="" src="https://i.imgur.com/y5181Ta.png">
 </p> 
+
+Porém, como vimos anteriormente, a correlação de pares não-estacionários na verdade varia com o tempo. Nesse sentido, essa correlação pode deixar de ser verdadeira em um próximo período. Por isso, vamos aprender a calcular se esses ativos estão na verdade.
 
 <p align="center">
   <img width="75%" height="75%" src="https://i.imgur.com/6LVvFiC.png">
@@ -68,3 +63,6 @@ Além disso, o teste nos retorna o famoso p-value, que basicamente determina a p
 No nosso exemplo, a confiabilidade é de 99.75%. Como geralmente valores acima de 95% já são suficientes para análise, o resultado então nos confirma que os ativos estão cointegrados com 99.75% de confiabilidade.
 
 ## Resultado do Modelo de Cointegração
+Os ativos sempre variam com o tempo, e podemos tirar essa dependência para aplicarmos modelos estatisticamente consistentes utilizando cointegração.
+
+A cointegração consistem em analisar o resíduo de uma regressão linear entre os ativos e procurar por estacionariedade nele. 
