@@ -69,6 +69,10 @@ Além disso, o teste nos retorna o famoso p-value, que basicamente determina a p
 
 No nosso exemplo, a confiabilidade é de 99.75%. Como geralmente valores acima de 95% já são suficientes para análise, o resultado então nos confirma que os ativos estão cointegrados com 99.75% de confiabilidade.
 
+<p align="center">
+  <img width="" height="" src="https://i.imgur.com/eUcPy7S.png">
+</p> 
+
 ## Resultado do Modelo de Cointegração
 Os ativos sempre variam com o tempo, e podemos tirar essa dependência para aplicarmos modelos estatisticamente consistentes utilizando cointegração.
 
