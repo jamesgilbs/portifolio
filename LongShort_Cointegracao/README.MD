@@ -64,7 +64,7 @@ Pode-se plotar esse resíduo para checarmos primeiramente se eles são graficame
 Como é difícil de diagnosticar visualmente se os resíduos são estacionários e para evitar ao máximo critérios subjetivos na análise quantitativa, existem métodos mais robustos de análise estatística que determinam se uma série é estacionária ou não com uma porcentagem de confiabilidade. Usualmente o teste mais utilizado se chama Augmented Dickey-Fuller.
 
 ## Estacionariedade no resíduo
-O teste de Dikey Fuller nos retorna o famoso p-value, que basicamente determina a probabilidade do resultado ter sido encontrado por mero acaso.
+O teste de Dickey Fuller nos retorna o famoso p-value, que basicamente determina a probabilidade do resultado ter sido encontrado por mero acaso.
 
 <p align="center">
   <img width="" height="" src="https://i.imgur.com/eUcPy7S.png">
