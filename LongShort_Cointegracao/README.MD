@@ -20,7 +20,11 @@ Uma série estacionária é toda série cujas propriedades estatísticas como m�
 Os dados do Índice Bovespa foram coletados no site Yahoo Finance, com recorte temporal de 01/01/2008 a 01/06/2021 (n = 162), valor ajustado(leva em conta dividendos, splits e outros) periodicidade diária.
 
 <p align="center">
-  <img width="" height="" src="https://i.imgur.com/TicsIYp.png">
+  <img width="" height="" src="https://i.imgur.com/UQc2aTX.png">
+</p>
+
+<p align="center">
+  <img width="75%" height="75%" src="https://i.imgur.com/EiybyZZ.png">
 </p>
 
 ## Cointegração
@@ -37,6 +41,14 @@ Não existe nenhum tipo de estacionaridade neles. Contudo, a visualização suge
 Nesse exemplo, vemos que existe uma alta correlação entre os ativos da Petrobras no período de tempo que escolhemos para análise. Se fossemos seguir uma estratégia baseado apenas na correlação, esse resultado estaria nos dizendo para prosseguir com a operação.
 
 Porém, como vimos anteriormente, a correlação de pares não-estacionários na verdade varia com o tempo. Nesse sentido, essa correlação pode deixar de ser verdadeira em um próximo período. Por isso, vamos aprender a calcular se esses ativos estão na verdade.
+
+<p align="center">
+  <img width="" height="" src="https://i.imgur.com/y5181Ta.png">
+</p> 
+
+<p align="center">
+  <img width="75%" height="75%" src="https://i.imgur.com/6LVvFiC.png">
+</p> 
 
 ## Ajuste de um modelo linear
 O output da regressão linear nos dará os coeficientes da reta y=βx+by = \beta x + by=βx+b que melhor aproxima os nossos dados.
