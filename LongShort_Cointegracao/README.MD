@@ -47,10 +47,18 @@ Porém, como vimos anteriormente, a correlação de pares não-estacionários na
 ## Ajuste de um modelo linear
 O output da regressão linear nos dará os coeficientes da reta y=βx+by = \beta x + by=βx+b que melhor aproxima os nossos dados.
 
+<p align="center">
+  <img width="" height="" src="https://i.imgur.com/tojcS0s.png">
+</p> 
+
 ## Cálculo do resíduo
 O segundo passo é calcularmos o resíduo. Agora que temos o valor previsto de Y, o resíduo (ou erro) pode ser calculado como a diferença entre o ponto previsto (calculado pelo nosso modelo linear) e o ponto observado (o valor observado na realidade).
 
 Agora podemos plotar esse resíduo para checarmos primeiramente se eles são graficamente estacionários. Ou seja, precisamos ver se a média e o desvio padrão do resíduo são constantes.
+
+<p align="center">
+  <img width="75%" height="75%" src="https://i.imgur.com/QtNhbdN.png">
+</p> 
 
 De fato, parece que o resíduo, diferentemente do comportamento dos ativos, oscila em relação à sua média, entre duas vezes o desvio padrão para cima e para baixo. Como vimos, esse é um dos indicativos de que o resíduo pode ser estacionário. Contudo, alguns podem argumentar que não veem esse resíduo perfeitamente estacionário. E, obviamente, nós tentamos evitar ao máximo critérios subjetivos na análise quantitativa.
 
