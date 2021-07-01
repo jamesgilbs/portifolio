@@ -2,6 +2,8 @@
 # do Ibovespa, sobretudo, em momentos de maior incerteza na economia local.
 # Utilizado Período de jan/2008 - jun/2021 mensal.
 
+#####
+#------------------ Confugurações ------------------#
 # Bibliotecas
 rm(list=ls())
 # install.packages("quantmod") # Retornos
@@ -19,6 +21,7 @@ library(dygraphs)
 options(max.print=1000000) # Número de linhas para visualização
 options(digits = 2, OutDec = ",") # Configuração decimal
 
+#####
 #------------------ Buscando e Plotando o Ativo ------------------#
 # Constantes
 stock <- "^BVSP" # stock
@@ -38,7 +41,7 @@ summary(atv) # Estatísticas descritivas
 str(atv) # Estrutura da série
 
 # Plotagem de Indicadores
-candleChart(atv, TA=c(addMACD(fast = 12, slow = 26, signal = 9), addVo(), addBBands()), show.grid = TRUE, "last 180 months", theme = chartTheme('white', up.col='green',dn.col='darkred'))
+candleChart(atv, TA=c(addMACD(fast = 12, slow = 26, signal = 9), addVo(), addBBands()), show.grid = TRUE, "last 180 months", theme = chartTheme('white', up.col='white',dn.col='black'))
 
 # Gráfico Interativo
 grafico <-cbind(atv[,4])
@@ -50,6 +53,7 @@ dygraph(grafico, ylab="Retorno Logaritmo X Estimativa de volatilidade",main=stoc
   dyOptions(stepPlot = TRUE) %>%
   dyRangeSelector()
 
+#####
 #------------------  Análise de Autocorrelação Serial ------------------#
 # Análise de autocorrelação do preço
 acf(atv[,4])
@@ -59,6 +63,7 @@ title(paste("ACF Análise de Autocorrelação Serial de", stock), line = +1)
 acf(atv[,4], type="partial")
 title(paste("PACF parcial do log retorno de", stock), line = +1)
   
+#####
 #------------------ Cálculo dos Retornos ------------------#
 # Retorno por período
 rD <- (100 * dailyReturn(atv)) # Retorno anual
@@ -88,6 +93,7 @@ title(paste("Retorno ao longo do Período", stock), line = +1)
 plot(atvRet^2, col="brown", lwd = 2)
 title(paste("Retorno Logaritmo ao Quadrado(Cluster de Volatilidade) de", stock), line = +1)
 
+#####
 #------------------  Modelo de Volatilidade Estocástica(MVE) ------------------#
 # Análise a posteriori com simulação Bayesiana via Markov Chain Monte Carlo(MCMC)
 postAtv <- svsample(atvRet) # Distribuição a Priori
