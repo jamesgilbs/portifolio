@@ -55,13 +55,11 @@ O output da regressão linear nos dará os coeficientes da reta y=βx+by que mel
 ## Cálculo do resíduo
 O segundo passo é calcular o resíduo. Agora que tem-se o valor previsto de Y, o resíduo(ou erro) pode ser calculado como a diferença entre o ponto previsto (calculado pelo modelo linear) e o ponto observado (o valor observado na realidade).
 
-Pode-se plotar esse resíduo para checarmos primeiramente se eles são graficamente estacionários. Ou seja, ver se a média e o desvio padrão do resíduo são constantes.
+Para evitar ao máximo critérios subjetivos na análise quantitativa visual, existem métodos mais robustos de análise estatística que determinam se uma série é estacionária ou não com uma porcentagem de confiabilidade. Usualmente o teste mais utilizado se chama Augmented Dickey-Fuller.
 
 <p align="center">
   <img width="75%" height="75%" src="https://i.imgur.com/QtNhbdN.png">
 </p> 
-
-Como é difícil de diagnosticar visualmente se os resíduos são estacionários e para evitar ao máximo critérios subjetivos na análise quantitativa, existem métodos mais robustos de análise estatística que determinam se uma série é estacionária ou não com uma porcentagem de confiabilidade. Usualmente o teste mais utilizado se chama Augmented Dickey-Fuller.
 
 ## Estacionariedade no resíduo
 O teste de Dickey Fuller nos retorna o famoso p-value, que basicamente determina a probabilidade do resultado ter sido encontrado por mero acaso.
