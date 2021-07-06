@@ -2,7 +2,7 @@
 
   Este modelo foi elaborado com linguagem R, no ambiente do RStudio, para investigação do assunto proposto. O código utilizado para gerar todos resultados abaixo encontra-se no repositório.
 
-## A Problema de Negócio
+## O Problema de Negócio
   A necessidade de entender a volatilidade tornou-se mais urgente com a evolução da economia moderna. O grau de incerteza e os riscos endógenos e exógenos ao mercado, sobretudo financeiro, demandavam que as análises se debruçassem também sobre a dispersão condicional dos indicadores.
   
   Os riscos exógenos são, em sua maioria, inerentes ao negócio, a cultura da região onde ocorre a operação da organização e obviamente os fenômenos naturais locais. Os riscos endógenos muitas vezes são associados a questões de processo, escolha estratégica por uma tecnologia em detrimento de outra, questões políticas, conflitos internos, depreciação de ativos, conscientização e cooperação dos funcionários.
