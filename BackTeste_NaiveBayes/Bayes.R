@@ -1,3 +1,13 @@
+#Machine Learning para Trading
+#Classificador Naive Bayes
+
+#install.packages("gridExtra")
+#install.packages("fTrading")
+#install.packages("fastDummies")
+#install.packages("ncar")
+#install.packages("pracma")
+#install.packages("useful")
+
 library("quantmod")
 library("lubridate")
 library("e1071")
@@ -13,13 +23,10 @@ library(scales)
 library(ggplot2)
 library(useful)
 
-#Machine Learning para Trading
-#Classificador Naive Bayes
-#https://www.outspokenmarket.com
-#Leandro Guerra
+rm(list = ls())
 
-
-
+setwd("/media/james/BKPExFATIn/GitHub/Portifolio/BackTeste_NaiveBayes") # direciona o R para pasta
+getwd() # visualiza a pasta de trabalho do R
 
 euro <- fread("EURUSD_H1.csv", header = TRUE, sep = ";")
 euro <- as.data.frame(euro)
