@@ -58,7 +58,7 @@ O segundo passo é calcular o resíduo. Agora que tem-se o valor previsto de Y, 
 Para evitar ao máximo critérios subjetivos na análise quantitativa visual, existem métodos mais robustos de análise estatística que determinam se uma série é estacionária ou não com uma porcentagem de confiabilidade. Usualmente o teste mais utilizado se chama Augmented Dickey-Fuller.
 
 <p align="center">
-  <img width="75%" height="75%" src="residreg.png">
+  <img width="75%" height="75%" src="resireg.png">
 </p> 
 
 ## Estacionariedade no resíduo
