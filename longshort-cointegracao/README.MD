@@ -2,7 +2,7 @@
 
 [![R](https://img.shields.io/badge/RStudio-1.4-green)](#)
 
-<a href='https://github.com/jamesgilbs/portifolio/tree/main/longshort-cointegracao'><img src='https://github.com/jamesgilbs/portifolio/blob/main/figures/long-short.jpg' align="left" height="139" /></a>
+<a href='https://github.com/jamesgilbs/portifolio/tree/main/longshort-cointegracao'><img src='https://github.com/jamesgilbs/portifolio/blob/main/longshort-cointegracao/figures/long-short.jpg' align="left" height="139" /></a>
 
 Este modelo foi elaborado com linguagem R, no ambiente do RStudio, para validação do par de ativos como cointegrados. O código utilizado para gerar todos resultados abaixo encontra-se no repositório.
 
@@ -22,7 +22,7 @@ Uma série estacionária é toda série cujas propriedades estatísticas como m�
 Foram utilizados dados da PETR3 e PETR4 como possível par de Long & Short, coletados no site Yahoo Finance, com recorte temporal de 01/01/2019 a 31/12/2021(a série trata a data final mesmo se ainda incompleta) do valor ajustado(leva em conta dividendos, splits e outros) periodicidade diária.
 
 <p align="center">
-  <img width="" height="" src="summary-longshort.png">
+  <img width="" height="" src="figures/summary-longshort.png">
 </p>
 
 ### Os pares
@@ -31,20 +31,20 @@ Plotagem dos pares para visualmente analisarmos se existe alguma relação entre
 Não existe nenhum tipo de estacionaridade neles. Contudo, a visualização sugere que existe uma relação entre os pares.
 
 <p align="center">
-  <img width="75%" height="75%" src="pairs.png">
+  <img width="75%" height="75%" src="figures/pairs.png">
 </p>
 
 ### Correlação
 Fazendo um teste de correlação, vemos que existe uma alta correlação entre os ativos da Petrobras no período de tempo que escolhemos para análise. Se fossemos seguir uma estratégia baseado apenas na correlação, esse resultado estaria nos dizendo para prosseguir com a operação.
 
 <p align="center">
-  <img width="" height="" src="corr.png">
+  <img width="" height="" src="figures/corr.png">
 </p> 
 
 Porém, como visto anteriormente, a correlação de pares não-estacionários na verdade varia com o tempo. Nesse sentido, essa correlação pode deixar de ser verdadeira em um próximo período. Deve-se então calcular a Cointegração(validar esta relação) dos ativos, através dos resíduos da regressão linear, que mostrará de forma mais precisa se a relação entre os dois ativos é permanente.
 
 <p align="center">
-  <img width="75%" height="75%" src="resid.png">
+  <img width="75%" height="75%" src="figures/resid.png">
 </p> 
 
 ### Ajuste de um modelo linear
@@ -53,7 +53,7 @@ Porém, como visto anteriormente, a correlação de pares não-estacionários na
 O output da regressão linear nos dará os coeficientes da reta y=βx+by que melhor aproxima os nossos dados.
 
 <p align="center">
-  <img width="" height="" src="regres.png">
+  <img width="" height="" src="figures/regres.png">
 </p> 
 
 ### Cálculo do resíduo
@@ -62,14 +62,14 @@ O segundo passo é calcular o resíduo. Agora que tem-se o valor previsto de Y, 
 Para evitar ao máximo critérios subjetivos na análise quantitativa visual, existem métodos mais robustos de análise estatística que determinam se uma série é estacionária ou não com uma porcentagem de confiabilidade. Usualmente o teste mais utilizado se chama Augmented Dickey-Fuller.
 
 <p align="center">
-  <img width="75%" height="75%" src="resireg.png">
+  <img width="75%" height="75%" src="figures/resireg.png">
 </p> 
 
 ### Estacionariedade no resíduo
 O teste de Dickey Fuller nos retorna o famoso p-value, que basicamente determina a probabilidade do resultado ter sido encontrado por mero acaso.
 
 <p align="center">
-  <img width="" height="" src="dfuller.png">
+  <img width="" height="" src="figures/dfuller.png">
 </p> 
 
 ### Resultado do Modelo de Cointegração
