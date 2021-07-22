@@ -36,13 +36,13 @@ Os dados do Índice Bovespa foram coletados no site Yahoo Finance, com recorte t
   É verificado se existe correlação entre os valores passados do Ibovespa com valores atuais. Abaixo pode-se notar que não existe indicação dessa correlação contínua de influência passada. Apesar da correlção inicalmente ser forte(próximo de 1) observa-se que com o passar da linha de tempo a correlação fica cada vez mais fraca e demonstra uma desconexão dos valores atuais com os anteriores.
 
 <p align="center">
-  <img width="75%" height="75%" src="figures/acf.png">
+  <img width="75%" height="85%" src="figures/acf.png">
 </p>
 
   No gráfico de correlação parcial, tem-se uma faixa mais estreita que indica os limites dessa relação. Mesmo pequena existe uma relação anterior que não explica completamente os valores atuais.
 
 <p align="center">
-  <img width="75%" height="75%" src="figures/pacf.png">
+  <img width="75%" height="85%" src="figures/pacf.png">
 </p>
 
 ### Análise da variação dos retornos
