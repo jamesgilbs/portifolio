@@ -1,5 +1,7 @@
 ## Long & Short por Cointegração
 
+[![R](https://img.shields.io/badge/RStudio-1.4-green)](#)
+
 Este modelo foi elaborado com linguagem R, no ambiente do RStudio, para validação do par de ativos como cointegrados. O código utilizado para gerar todos resultados abaixo encontra-se no repositório.
 
 ### O que é Long & Short?
