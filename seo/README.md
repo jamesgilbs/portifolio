@@ -34,26 +34,26 @@ Tendências do Dia: Hot Trends
 ### Busca Palavras Chaves (Laço)
 
 Assuntos mais pesquisados:
--                      fazer laço    100
--                 como fazer laço     82
--                    laço de fita     76
--                       laço amor     39
--                     laço cabelo     37
--                  laço de menina     35
--                    laço de amor     33
--                 um laço de amor     32
--                  laço de cabelo     28
--                           laços     27
--                     laço tie dye  15300
--           resumo laço de familia   8700
--         como fazer laço em roupa   8650
--                 atelie doce laço   4400
--                     laço tay day   4300
--   um laço de amor torrent magnet   4250
--                  rabico com laço   4200
--     cale o cansaço refaça o laço   2100
--           como dar laço em roupa   2050
--          um laço de amor netflix   1450
+                      fazer laço    100
+                 como fazer laço     82
+                    laço de fita     76
+                       laço amor     39
+                     laço cabelo     37
+                  laço de menina     35
+                    laço de amor     33
+                 um laço de amor     32
+                  laço de cabelo     28
+                           laços     27
+                     laço tie dye  15300
+           resumo laço de familia   8700
+         como fazer laço em roupa   8650
+                 atelie doce laço   4400
+                     laço tay day   4300
+   um laço de amor torrent magnet   4250
+                  rabico com laço   4200
+     cale o cansaço refaça o laço   2100
+           como dar laço em roupa   2050
+          um laço de amor netflix   1450
 
 ### Busca Palavras Chaves (Tiara)
 -       tiara cabelo    100
