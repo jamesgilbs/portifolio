@@ -1,5 +1,5 @@
 [![Python 3.6](https://img.shields.io/badge/Python-3.7-blue.svg)](#)
-[![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](LICENSE.txt)
+[![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](https://github.com/jamesgilbs/portifolio/LICENSE.txt)
 
 ## Portifolio
 
