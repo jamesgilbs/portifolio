@@ -56,86 +56,86 @@ Assuntos mais pesquisados:
 * um laço de amor netflix   1450
 
 ### Busca Palavras Chaves (Tiara)
--       tiara cabelo    100
--    tiara de cabelo     80
--       tiara perola     54
--    tiara de perola     42
--     tiara infantil     35
--             tiaras     24
--       tiara pedras     21
--       trança tiara     20
--    tiara de flores     20
--    tiara maquiagem     19
--                 tiara juliette  153050
--                      tiara bbb  126050
--              tiara da juliette   74550
--             tiara juliette bbb   65550
--                     tiara mono   36550
--             trancas nago tiara   31250
--          tiara da juliette bbb   27650
--                  tiara tie dye   24700
--         tiara marilia mendonça   16100
--        tiara de perola luxuosa   12050
+* tiara cabelo    100
+* tiara de cabelo     80
+* tiara perola     54
+* tiara de perola     42
+* tiara infantil     35
+* tiaras     24
+* tiara pedras     21
+* trança tiara     20
+* tiara de flores     20
+* tiara maquiagem     19
+* tiara juliette  153050
+* tiara bbb  126050
+* tiara da juliette   74550
+* tiara juliette bbb   65550
+* tiara mono   36550
+* trancas nago tiara   31250
+* tiara da juliette bbb   27650
+* tiara tie dye   24700
+* tiara marilia mendonça   16100
+* tiara de perola luxuosa   12050
 
 ### Busca Palavras Chaves (Turbante)
--                 como fazer turbante    100
--                       turbante bebe     73
--                      tiara turbante     73
--                   turbante infantil     66
--                      faixa turbante     59
--                      touca turbante     54
--                   turbante feminino     51
--                    viseira turbante     49
--                  turbante de cabelo     47
--                  turbante para bebe     35
--  como usar turbante no cabelo    450
--       faixa turbante feminino    450
--              viseira turbante    170
--            turbante para bebê     80
+* como fazer turbante    100
+* turbante bebe     73
+* tiara turbante     73
+* turbante infantil     66
+* faixa turbante     59
+* touca turbante     54
+* turbante feminino     51
+* viseira turbante     49
+* turbante de cabelo     47
+* turbante para bebe     35
+* como usar turbante no cabelo    450
+* faixa turbante feminino    450
+* viseira turbante    170
+* turbante para bebê     80
 
 ### Busca Palavras Chaves (Pulseira)
--                pandora    100
--       pandora pulseira     98
--                relogio     89
--       relogio pulseira     88
--         pulseira prata     69
--          pulseira ouro     67
--        pulseira vivara     66
--                 vivara     63
--                relógio     57
--     pulseira masculina     55
--               pulseira feng shui  28550
--              pulseira branca bbb  17950
--            pulseira galaxy fit 2  17250
--          pulseira smartwatch d20  16100
--              pulseira da saudade  12450
--      pulseira feng shui original   7850
--           pulseira de álcool gel   5000
--        pulseira de álcool em gel   1950
--    pulseira pandora harry potter   1900
--     pulseira de miçanga com nome   1300
+* pandora    100
+* pandora pulseira     98
+* relogio     89
+* relogio pulseira     88
+* pulseira prata     69
+* pulseira ouro     67
+* pulseira vivara     66
+* vivara     63
+* relógio     57
+* pulseira masculina     55
+* pulseira feng shui  28550
+* pulseira branca bbb  17950
+* pulseira galaxy fit 2  17250
+* pulseira smartwatch d20  16100
+* pulseira da saudade  12450
+* pulseira feng shui original   7850
+* pulseira de álcool gel   5000
+* pulseira de álcool em gel   1950
+* pulseira pandora harry potter   1900
+* pulseira de miçanga com nome   1300
 
 ### Busca Palavras Chaves (Maquiagem)
--         maleta maquiagem    100
--        maquiagem simples     89
--      maleta de maquiagem     88
--            kit maquiagem     79
--         kit de maquiagem     56
--       maquiagem infantil     56
--     como fazer maquiagem     51
--       curso de maquiagem     46
--        loja de maquiagem     45
--                halloween     42
--      paleta de maquiagem do now united   6700
--        a maquiagem dela agora é poeira   3350
--   para que serve o primer na maquiagem    600
--                   eliana sem maquiagem    500
--          ana maria braga sem maquiagem    400
--                maquiagem do now united    250
--              maquiagem para o ano novo    200
--                    anita sem maquiagem    160
--                      pancake maquiagem    160
--                fornecedor de maquiagem    160
+* maleta maquiagem    100
+* maquiagem simples     89
+* maleta de maquiagem     88
+* kit maquiagem     79
+* kit de maquiagem     56
+* maquiagem infantil     56
+* como fazer maquiagem     51
+* curso de maquiagem     46
+* loja de maquiagem     45
+* halloween     42
+* paleta de maquiagem do now united   6700
+* a maquiagem dela agora é poeira   3350
+* para que serve o primer na maquiagem    600
+* eliana sem maquiagem    500
+* ana maria braga sem maquiagem    400
+* maquiagem do now united    250
+* maquiagem para o ano novo    200
+* anita sem maquiagem    160
+* pancake maquiagem    160
+* fornecedor de maquiagem    160 
 
 ### Comparativo entre os itens
 
