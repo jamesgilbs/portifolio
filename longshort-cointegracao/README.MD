@@ -27,20 +27,20 @@ Plotagem dos pares para visualmente analisarmos se existe alguma relação entre
 Não existe nenhum tipo de estacionaridade neles. Contudo, a visualização sugere que existe uma relação entre os pares.
 
 <p align="center">
-  <img width="75%" height="75%" src="https://i.imgur.com/EiybyZZ.png">
+  <img width="75%" height="75%" src="pairs.png">
 </p>
 
 ## Correlação
 Fazendo um teste de correlação, vemos que existe uma alta correlação entre os ativos da Petrobras no período de tempo que escolhemos para análise. Se fossemos seguir uma estratégia baseado apenas na correlação, esse resultado estaria nos dizendo para prosseguir com a operação.
 
 <p align="center">
-  <img width="" height="" src="https://i.imgur.com/y5181Ta.png">
+  <img width="" height="" src="corr.png">
 </p> 
 
 Porém, como visto anteriormente, a correlação de pares não-estacionários na verdade varia com o tempo. Nesse sentido, essa correlação pode deixar de ser verdadeira em um próximo período. Deve-se então calcular a Cointegração(validar esta relação) dos ativos, através dos resíduos da regressão linear, que mostrará de forma mais precisa se a relação entre os dois ativos é permanente.
 
 <p align="center">
-  <img width="75%" height="75%" src="https://i.imgur.com/6LVvFiC.png">
+  <img width="75%" height="75%" src="resid.png">
 </p> 
 
 ## Ajuste de um modelo linear
@@ -49,7 +49,7 @@ Porém, como visto anteriormente, a correlação de pares não-estacionários na
 O output da regressão linear nos dará os coeficientes da reta y=βx+by que melhor aproxima os nossos dados.
 
 <p align="center">
-  <img width="" height="" src="https://i.imgur.com/tojcS0s.png">
+  <img width="" height="" src="regres.png">
 </p> 
 
 ## Cálculo do resíduo
@@ -58,14 +58,14 @@ O segundo passo é calcular o resíduo. Agora que tem-se o valor previsto de Y, 
 Para evitar ao máximo critérios subjetivos na análise quantitativa visual, existem métodos mais robustos de análise estatística que determinam se uma série é estacionária ou não com uma porcentagem de confiabilidade. Usualmente o teste mais utilizado se chama Augmented Dickey-Fuller.
 
 <p align="center">
-  <img width="75%" height="75%" src="https://i.imgur.com/QtNhbdN.png">
+  <img width="75%" height="75%" src="residreg.png">
 </p> 
 
 ## Estacionariedade no resíduo
 O teste de Dickey Fuller nos retorna o famoso p-value, que basicamente determina a probabilidade do resultado ter sido encontrado por mero acaso.
 
 <p align="center">
-  <img width="" height="" src="https://i.imgur.com/eUcPy7S.png">
+  <img width="" height="" src="dfuller.png">
 </p> 
 
 ## Resultado do Modelo de Cointegração
