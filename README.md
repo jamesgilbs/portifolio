@@ -1,9 +1,11 @@
-[![Python 3.6](https://img.shields.io/badge/Python-3.8-blue.svg)](#)
-[![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](LICENSE)
+## Portifolio
 
 <a href='https://tidyr.tidyverse.org'><img src='figures/logo.png' align="right" height="139" /></a>
 
-## Portifolio
+[![Python 3.6](https://img.shields.io/badge/Python-3.8-blue.svg)](#)
+[![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](LICENSE)
+
+
 
 Este é meu portfólio e trata de assuntos como Estatística, Machine Learning, Deep Learning e Engenharia Eletrônica para automação e embarcados. São projetos em C/C++, Python e R, aplicados em soluções de problemas diversos, desde Áreas de Negócio, Mercado Financeiro e Internet das coisas (IoT).
 
