@@ -11,3 +11,5 @@ Este é meu portfólio e trata de assuntos como Estatística, Machine Learning, 
 
 **Mercado Financeiro**
 - Validação de Operação Long & Short com R - https://github.com/jamesgilbs/portifolio/tree/main/longshort-cointegracao - Verificação da correlação e cointegração de dois ativos para validar a operação Long & Short.
+
+- Modelo de Volatilidade Estocástica do IBOV com R - https://github.com/jamesgilbs/portifolio/tree/main/longshort-cointegracao - Melhor entendimento da volatilidade do mercado, com a utilização de MVE.
