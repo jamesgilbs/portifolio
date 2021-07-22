@@ -10,4 +10,4 @@
 Este é meu portfólio e trata de assuntos como Estatística, Machine Learning, Deep Learning e Engenharia Eletrônica para automação e embarcados. São projetos em C/C++, Python e R, aplicados em soluções de problemas diversos, desde Áreas de Negócio, Mercado Financeiro e Internet das coisas (IoT).
 
 **Mercado Financeiro**
-- https://github.com/jamesgilbs/portifolio/tree/main/longshort-cointegracao - Verificação da correlação e cointegração de dois ativos para validar a operação Long & Short.
+- Validação de Operação Long & Short com R - https://github.com/jamesgilbs/portifolio/tree/main/longshort-cointegracao - Verificação da correlação e cointegração de dois ativos para validar a operação Long & Short.
