@@ -10,8 +10,8 @@ Este é meu portfólio e trata de assuntos como Estatística, Machine Learning, 
 
 **Mercado Financeiro**
 
-<a href='https://github.com/jamesgilbs/portifolio/tree/main/longshort-cointegracao'><img src='https://github.com/jamesgilbs/portifolio/blob/main/figures/long-short.jpg' align="left" height="56" /></a>
+<a href='https://github.com/jamesgilbs/portifolio/tree/main/longshort-cointegracao'><img src='https://github.com/jamesgilbs/portifolio/blob/main/longshort-cointegracao/figures/long-short.jpg' align="left" height="56" /></a>
 - Validação de Operação Long & Short com R - https://github.com/jamesgilbs/portifolio/tree/main/longshort-cointegracao - Verificação da correlação e cointegração de dois ativos para validar a operação Long & Short.
 
-<a href='https://github.com/jamesgilbs/portifolio/tree/main/volatilidade-mve-retornos-ibov'><img src='https://github.com/jamesgilbs/portifolio/blob/main/figures/indicator.jpg' align="left" height="56" /></a>
+<a href='https://github.com/jamesgilbs/portifolio/tree/main/volatilidade-mve-retornos-ibov'><img src='https://github.com/jamesgilbs/portifolio/blob/main/volatilidade-mve-retornos-ibov/figures/indicator.jpg' align="left" height="56" /></a>
 - Modelo de Volatilidade Estocástica do IBOV com R - https://github.com/jamesgilbs/portifolio/tree/main/volatilidade-mve-retornos-ibov - Melhor entendimento da volatilidade do mercado, com a utilização de MVE.
