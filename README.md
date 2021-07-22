@@ -15,3 +15,8 @@ Este é meu portfólio e trata de assuntos como Estatística, Machine Learning, 
 
 <a href='https://github.com/jamesgilbs/portifolio/tree/main/volatilidade-mve-retornos-ibov'><img src='https://github.com/jamesgilbs/portifolio/blob/main/volatilidade-mve-retornos-ibov/figures/indicator.jpg' align="left" height="56" /></a>
 - Modelo de Volatilidade Estocástica do IBOV com R - https://github.com/jamesgilbs/portifolio/tree/main/volatilidade-mve-retornos-ibov - Melhor entendimento da volatilidade do mercado, com a utilização de MVE.
+
+**Soluções de Negócio**
+
+<a href='https://github.com/jamesgilbs/portifolio/tree/main/seo'><img src='https://github.com/jamesgilbs/portifolio/blob/main/seo/figures/O-que-e-SEO-1-Doka-Comunicacao.jpg' align="left" height="56" /></a>
+- Utilização da biblioteca pytrends para busca de palavras chaves para SEO - https://github.com/jamesgilbs/portifolio/tree/main/seo - Otimização de negócio utilizando de dados do Google Trend com Python.
