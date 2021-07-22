@@ -17,6 +17,7 @@ Este é meu portfólio e trata de assuntos como Estatística, Machine Learning, 
 - Modelo de Volatilidade Estocástica do IBOV com R - https://github.com/jamesgilbs/portifolio/tree/main/volatilidade-mve-retornos-ibov - Melhor entendimento da volatilidade do mercado, com a utilização de MVE.
  
 
+
 **Soluções de Negócio**
 
 <a href='https://github.com/jamesgilbs/portifolio/tree/main/seo'><img src='https://github.com/jamesgilbs/portifolio/blob/main/seo/figures/O-que-e-SEO-1-Doka-Comunicacao.jpg' align="left" height="56" /></a>
