@@ -18,7 +18,7 @@ Uma série estacionária é toda série cujas propriedades estatísticas como m�
 Foram utilizados dados da PETR3 e PETR4 como possível par de Long & Short, coletados no site Yahoo Finance, com recorte temporal de 01/01/2019 a 31/12/2021(a série trata a data final mesmo se ainda incompleta) do valor ajustado(leva em conta dividendos, splits e outros) periodicidade diária.
 
 <p align="center">
-  <img width="" height="" src="figures/sumary.png">
+  <img width="" height="" src="summary-longshort.png">
 </p>
 
 ## Os pares
