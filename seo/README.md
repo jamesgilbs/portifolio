@@ -21,15 +21,15 @@ Gera também palavras chaves relacionadas para inserção em títulos h1 e h2 de
 
 ### Tendências de busca no Brasil hoje
 
-- Tendências do Dia: Hot Trends
--               Phoenix Suns
--          Rua do Medo: 1978
--             Hugo Rodallega
--              Thyane Dantas
--        Permission to Dance
--              Florence pugh
--            Mariana Ximenes
--     Vacina Janssen reações
+Tendências do Dia: Hot Trends
+- Phoenix Suns
+- Rua do Medo: 1978
+- Hugo Rodallega
+- Thyane Dantas
+- Permission to Dance
+- Florence pugh
+- Mariana Ximenes
+- Vacina Janssen reações
 
 ### Busca Palavras Chaves (Laço)
 
