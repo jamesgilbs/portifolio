@@ -2,12 +2,12 @@
 
 [![Python 3.6](https://img.shields.io/badge/Python-3.8-blue.svg)](#)
 
-<a href='https://github.com/jamesgilbs/portifolio/tree/main/longshort-cointegracao'><img src='https://github.com/jamesgilbs/portifolio/blob/main/longshort-cointegracao/figures/long-short.jpg' align="left" height="139" /></a>
+<a href='https://github.com/jamesgilbs/portifolio/tree/main/longshort-cointegracao'><img src='https://github.com/jamesgilbs/portifolio/blob/main/seo/figures/O-que-e-SEO-1-Doka-Comunicacao.jpg' align="left" height="139" /></a>
 SEO(Search Engine Optimization) para loja virtual acessórios femininos siemprenina.com.br
 
 Análise do Google Trends de palavras chaves e ocorrências geográficas. 
 
-**Itens de análise: laço, tiara, turbante, pulseira, maquiagem.
+**Itens de análise: laço, tiara, turbante, pulseira, maquiagem.**
 
 Proposta de análise:
 
