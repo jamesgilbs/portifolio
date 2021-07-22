@@ -27,7 +27,7 @@ Os dados do Índice Bovespa foram coletados no site Yahoo Finance, com recorte t
 </p>
 
 <p align="center">
-  <img width="75%" height="75%" src="figures/indic.png">
+  <img width="75%" height="85%" src="figures/indic.png">
 </p>
 
   O estudo justifica-se pela necessidade de entender o comportamento estatístico do Ibovespa, sobretudo, em momentos de maior incerteza da economia local.
