@@ -34,9 +34,9 @@ Tendências do Dia: Hot Trends
 ### Busca Palavras Chaves (Laço)
 
 Assuntos mais pesquisados:
-fazer laço    100
-como fazer laço     82
-laço de fita     76
+. fazer laço    100
+. como fazer laço     82
+. laço de fita     76
 laço amor     39
 laço cabelo     37
 laço de menina     35
