@@ -139,13 +139,19 @@ Assuntos mais pesquisados:
 
 ### Comparativo entre os itens
 
+* Densidade dos itens:
+
 <p align="center">
   <img width="" height="" src="figures/densi.png">
 </p>
 
+* Faixa de busca dos itens:
+
 <p align="center">
   <img width="" height="" src="figures/box.png">
 </p>
+
+* Sazonalidade geral:
 
 <p align="center">
   <img width="" height="" src="figures/saz.png">
@@ -174,6 +180,7 @@ Assuntos mais pesquisados:
 </p>
 
 ### Gráfico de busca por período
+Estes gráficos mostram a sazonalidade individual dos itens durante os períodos do ano.
 
 <p align="center">
   <img width="" height="" src="figures/per-laco.png">
@@ -194,3 +201,7 @@ Assuntos mais pesquisados:
 <p align="center">
   <img width="" height="" src="figures/per-maquiagem.png">
 </p>
+
+### Conclusão
+
+De posse a esses dados, é possível cadastrar títulos e descrições na plataforma de venda, focando no formato mais buscado, também se determina estoque e produção, de acordo com a possível sazonalidade de cada ítem. Pode-se utilizar desses dados para geração de propagandas direcionadas, filtradas por região, e épocas do ano.
