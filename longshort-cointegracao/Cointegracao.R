@@ -1,7 +1,7 @@
 # Verifica a cointegração de dois ativos para validação de operação Long/Short
 
 #####
-#------------------ Confugurações ------------------#
+#------------------ Configurações ------------------#
 #Bibliotecas
 #install.packages("GGally")
 # install.packages("quantmod")
