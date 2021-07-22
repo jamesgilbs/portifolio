@@ -1,6 +1,6 @@
 ## Portifolio
 
-<a href='https://tidyr.tidyverse.org'><img src='james.jpeg' align="right" height="139" /></a>
+<a href='https://tidyr.tidyverse.org'><img src='figures/james.jpeg' align="right" height="139" /></a>
 
 [![Python 3.6](https://img.shields.io/badge/Python-3.8-blue.svg)](#)
 [![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](LICENSE)
