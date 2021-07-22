@@ -27,7 +27,7 @@ Os dados do Índice Bovespa foram coletados no site Yahoo Finance, com recorte t
 </p>
 
 <p align="center">
-  <img width="75%" height="" src="figures/indic.png">
+  <img width="85%" height="85%" src="figures/indic.png">
 </p>
 
   O estudo justifica-se pela necessidade de entender o comportamento estatístico do Ibovespa, sobretudo, em momentos de maior incerteza da economia local.
@@ -36,13 +36,13 @@ Os dados do Índice Bovespa foram coletados no site Yahoo Finance, com recorte t
   É verificado se existe correlação entre os valores passados do Ibovespa com valores atuais. Abaixo pode-se notar que não existe indicação dessa correlação contínua de influência passada. Apesar da correlção inicalmente ser forte(próximo de 1) observa-se que com o passar da linha de tempo a correlação fica cada vez mais fraca e demonstra uma desconexão dos valores atuais com os anteriores.
 
 <p align="center">
-  <img width="75%" height="85%" src="figures/acf.png">
+  <img width="85%" height="85%" src="figures/acf.png">
 </p>
 
   No gráfico de correlação parcial, tem-se uma faixa mais estreita que indica os limites dessa relação. Mesmo pequena existe uma relação anterior que não explica completamente os valores atuais.
 
 <p align="center">
-  <img width="75%" height="85%" src="figures/pacf.png">
+  <img width="85%" height="85%" src="figures/pacf.png">
 </p>
 
 ### Análise da variação dos retornos
@@ -55,12 +55,12 @@ Os dados do Índice Bovespa foram coletados no site Yahoo Finance, com recorte t
   Observando que mesmo tendo uma maior queda em 2020 do que em 2008, a queda observada na crise do Covid-19 foi de recuperação mais acelerada, fechando dentro do mesmo ano positivamente.
 
 <p align="center">
-  <img width="75%" height="75%" src="figures/ret.png">
+  <img width="85%" height="85%" src="figures/ret.png">
 </p>
 
   Observa-se alta volatilidade em momentos de crise.
 <p align="center">
-  <img width="75%" height="75%" src="figures/retlog.png">
+  <img width="85%" height="85%" src="figures/retlog.png">
 </p>
 
 ### O Modelo
@@ -77,10 +77,10 @@ Dados do modelo:
 Volatilidade estimada dos retornos:
 
 <p align="center">
-  <img width="75%" height="75%" src="figures/vol.png">
+  <img width="85%" height="85%" src="figures/vol.png">
 </p>
 
 Para análise dos resíduos:
 <p align="center">
-  <img width="75%" height="75%" src="figures/resids.png">
+  <img width="85%" height="85%" src="figures/resids.png">
 </p>
