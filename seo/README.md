@@ -144,16 +144,53 @@ Assuntos mais pesquisados:
 </p>
 
 <p align="center">
-  <img width="" height="" src="figures/summary-longshort.png">
+  <img width="" height="" src="figures/box.png">
 </p>
 
 <p align="center">
-  <img width="" height="" src="figures/summary-longshort.png">
+  <img width="" height="" src="figures/saz.png">
 </p>
-
 
 ### Gráfico de busca por estado
 
+<p align="center">
+  <img width="" height="" src="figures/graph-laco.png">
+</p>
+
+<p align="center">
+  <img width="" height="" src="figures/graph-tiara.png">
+</p>
+
+<p align="center">
+  <img width="" height="" src="figures/graph-turbante.png">
+</p>
+
+<p align="center">
+  <img width="" height="" src="figures/graph-pulseira.png">
+</p>
+
+<p align="center">
+  <img width="" height="" src="figures/graph-maquiagem.png">
+</p>
+
 ### Gráfico de busca por período
 
+<p align="center">
+  <img width="" height="" src="figures/per-laco.png">
+</p>
 
+<p align="center">
+  <img width="" height="" src="figures/per-tiara.png">
+</p>
+
+<p align="center">
+  <img width="" height="" src="figures/per-turbante.png">
+</p>
+
+<p align="center">
+  <img width="" height="" src="figures/per-pulseira.png">
+</p>
+
+<p align="center">
+  <img width="" height="" src="figures/per-maquiagem.png">
+</p>
