@@ -1,4 +1,4 @@
-[![Python 3.6](https://img.shields.io/badge/Python-3.7-blue.svg)](#)
+[![Python 3.6](https://img.shields.io/badge/Python-3.8-blue.svg)](#)
 [![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](LICENSE)
 
 ## Portifolio
