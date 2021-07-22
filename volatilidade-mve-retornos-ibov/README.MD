@@ -2,7 +2,7 @@
 
 [![R](https://img.shields.io/badge/RStudio-1.4-green)](#)
 
-<a href='https://github.com/jamesgilbs/portifolio/tree/main/volatilidade-mve-retornos-ibov'><img src='https://github.com/jamesgilbs/portifolio/blob/main/figures/indicator.jpg' align="left" height="139" /></a>
+<a href='https://github.com/jamesgilbs/portifolio/tree/main/volatilidade-mve-retornos-ibov'><img src='https://github.com/jamesgilbs/portifolio/blob/main/volatilidade-mve-retornos-ibov/figures/indicator.jpg' align="left" height="139" /></a>
 
   Este modelo foi elaborado com linguagem R, no ambiente do RStudio, para investigação do assunto proposto. O código utilizado para gerar todos resultados abaixo encontra-se no repositório.
 
