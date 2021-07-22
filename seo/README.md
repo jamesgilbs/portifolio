@@ -139,6 +139,19 @@ Assuntos mais pesquisados:
 
 ### Comparativo entre os itens
 
+<p align="center">
+  <img width="" height="" src="figures/densi.png">
+</p>
+
+<p align="center">
+  <img width="" height="" src="figures/summary-longshort.png">
+</p>
+
+<p align="center">
+  <img width="" height="" src="figures/summary-longshort.png">
+</p>
+
+
 ### Gráfico de busca por estado
 
 ### Gráfico de busca por período
