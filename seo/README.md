@@ -2,7 +2,7 @@
 
 [![Python 3.6](https://img.shields.io/badge/Python-3.8-blue.svg)](#)
 
-Utilizando da biblioteca pytrend com python no Colab, bara buscar informações que podem ser de grande valia para o comércio eletrônico de forma geral.
+Utilizando a biblioteca pytrend com python no Colab, bara buscar informações que podem ser de grande valia para o comércio eletrônico de forma geral.
 
 <a href='https://github.com/jamesgilbs/portifolio/tree/main/longshort-cointegracao'><img src='https://github.com/jamesgilbs/portifolio/blob/main/seo/figures/O-que-e-SEO-1-Doka-Comunicacao.jpg' align="left" height="139" /></a>
 SEO(Search Engine Optimization) para loja virtual acessórios femininos siemprenina.com.br
