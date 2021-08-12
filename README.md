@@ -24,6 +24,6 @@ This is my portfolio and deals with subjects such as Statistics, Machine Learnin
 **Soluções de Negócio**
 **Business Solutions**
 
-***Projeto 3***
+***Projeto 1***
 - Utilização da biblioteca pytrends para busca de palavras chaves para SEO - https://github.com/jamesgilbs/portifolio/tree/main/seo - Otimização de negócio utilizando de dados do Google Trend com Python.
 - Business optimization using Google Trend data with Python.
