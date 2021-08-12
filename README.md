@@ -10,7 +10,7 @@ Este é meu portfólio e trata de assuntos como Estatística, Machine Learning, 
 
 This is my portfolio and deals with subjects such as Statistics, Machine Learning, Deep Learning and Electronic Engineering for automation and embedded. They are projects in C/C++, Python and R, applied to various problem solving, from Business Areas, Financial Market and Internet of Things (IoT).
 
-*Mercado Financeiro*
+##Mercado Financeiro
 **Financial market**
 
 ***Projeto 1***
@@ -21,7 +21,7 @@ This is my portfolio and deals with subjects such as Statistics, Machine Learnin
 - Modelo de Volatilidade Estocástica do IBOV com R - https://github.com/jamesgilbs/portifolio/tree/main/volatilidade-mve-retornos-ibov - Melhor entendimento da volatilidade do mercado, com a utilização de MVE.
 - Better understanding of market volatility using MVE.
  
-*Soluções de Negócio*
+##Soluções de Negócio
 **Business Solutions**
 
 ***Projeto 1***
