@@ -14,17 +14,16 @@ This is my portfolio and deals with subjects such as Statistics, Machine Learnin
 **Financial market**
 
 ***Projeto 1***
-- Verification of the correlation and cointegration of two assets to validate the Long & Short operation.
 - Validação de Operação Long & Short com R - https://github.com/jamesgilbs/portifolio/tree/main/longshort-cointegracao - Verificação da correlação e cointegração de dois ativos para validar a operação Long & Short.
+- Verification of the correlation and cointegration of two assets to validate the Long & Short operation.
 
 ***Projeto 2***
-- Better understanding of market volatility using MVE.
 - Modelo de Volatilidade Estocástica do IBOV com R - https://github.com/jamesgilbs/portifolio/tree/main/volatilidade-mve-retornos-ibov - Melhor entendimento da volatilidade do mercado, com a utilização de MVE.
+- Better understanding of market volatility using MVE.
  
 **Soluções de Negócio**
 **Business Solutions**
 
 ***Projeto 3***
-- Business optimization using Google Trend data with Python.
 - Utilização da biblioteca pytrends para busca de palavras chaves para SEO - https://github.com/jamesgilbs/portifolio/tree/main/seo - Otimização de negócio utilizando de dados do Google Trend com Python.
-
+- Business optimization using Google Trend data with Python.
