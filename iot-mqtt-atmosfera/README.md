@@ -19,7 +19,7 @@ Os dados são adquiridos e enviados via Wifi, mas a estrutura do código permite
 Foi implementado um sistema de controle de carga da bateria de LiPo(2500mA) junto a placa solar que regula com um MCP1700 low dropout a tensão de 3,3V. Criando assim um sistema com possibilidade de independência energética e de localização.
 
 <p align="center">
-  <img width="50%" height="50%" src="figures/placa.jpg">
+  <img width="30%" height="30%" src="figures/placa.jpg">
 </p>
 
 ### Protocolo MQTT
@@ -33,7 +33,7 @@ Através desse incrível protocolo se publica ou se lê mensagens em JSON ou mes
 A subscrição é a leitura da carga de um tópico como nessa Firmware de horários para acionamento das saídas 32 e 33. Ou mesmo acionamento manual das saídas. Como exemplo um ar condicionado, mas poderia ser um exaustor industrial para retirada de gases inflamáveis.
 
 <p align="center">
-  <img width="60%" height="60%" src="figures/sub.png">
+  <img width="55%" height="55%" src="figures/sub.png">
 </p>
 
 ### FreeRTOS
