@@ -23,4 +23,4 @@ Nesse demonstrativo de aplicação, o servidor com IP fixo em nuvem e o Broker M
   <img width="75%" height="75%" src="figures/mqtt-cel.jpg">
 </p>
 
-<a href='https://github.com/jamesgilbs/portifolio/tree/main/longshort-cointegracao'><img src='https://github.com/jamesgilbs/portifolio/blob/main/iot-mqtt-atmosfera/figures/mqtt-cel.jpg' align="left" height="480" /></a>
+<a href='https://github.com/jamesgilbs/portifolio/tree/main/longshort-cointegracao'><img src='https://github.com/jamesgilbs/portifolio/blob/main/iot-mqtt-atmosfera/figures/mqtt-cel.jpg' align="center" height="640" /></a>
