@@ -8,14 +8,14 @@ Esta Firmware foi elaborada para monitoramento atmosférico através do ESP32 e 
 Os dados são adquiridos e enviados via Wifi, mas a estrutura do código permite fácil adaptação pra GSM, ou mesmo LoRa. O Wifi que já está implementado, utiliza-se da configuração por usuário, o ESP32 entra em modo de AP e busca as redes próximas e o usuário com o celular pode-se conectar a rede e inserir senha para acesso, ficando totalmente flexível e robusta a personalização da rede a ser utilizada. As conexões são realizadas levando em conta dentro das redes salvas no sistema de arquivos SPIFFS, a de maior sinal.
 
 <p align="center">
-  <img width="75%" height="75%" src="figures/placa.jpg">
+  <img width="50%" height="50%" src="figures/placa.jpg">
 </p>
 
 ### Autonomia energética
 Foi implementado um sistema de controle de carga da bateria de LiPo(2500mA) junto a placa solar que regula com um MCP1700 low dropout a tensão de 3,3V.
 
 <p align="center">
-  <img width="75%" height="75%" src="figures/placa-solar.jpg">
+  <img width="50%" height="50%" src="figures/placa-solar.jpg">
 </p>
 
 ### Protocolo MQTT
