@@ -5,21 +5,21 @@
 Esta Firmware foi elaborada para monitoramento atmosférico através do ESP32 e sensores BME280 e MQ2. São dados de altitude, humidade, temperatura e pressão atmosférica, também dados do sensor de gases inflamáveis, que podem indicar uma atmosfera explosiva. Esses dados podem ser trabalhados para acionar equipamentos, saídas ou mesmo serem analizados por sistemas que possam tomar uma decisão, através dos dados que são enviados via protocolo MQTT(baixo uso de dados para IoT) em servidor virtual linux instalado no Google Cloud Platform. Os sensores captam os sinais analógicos via barramento I2C e publicam através do ESP32 um tópico em nuvem que pode ser acessado por clientes em dispositivos móveis, PC, painéis de bordo, serem trabalhados através de Storytelling, Machine Learning, e tudo que se relaciona a trabalho com Big Data.
 
 <p align="center">
-  <img width="50%" height="50%" src="figures/gcp.jpg">
+  <img width="70%" height="70%" src="figures/protoboard.jpg">
 </p>
 
 ### Aquisição e envio dos dados
 Os dados são adquiridos e enviados via Wifi, mas a estrutura do código permite fácil adaptação pra GSM, ou mesmo LoRa. O Wifi que já está implementado, utiliza-se da configuração por usuário, o ESP32 entra em modo de AP e busca as redes próximas e o usuário com o celular pode-se conectar a rede e inserir senha para acesso, ficando totalmente flexível e robusta a personalização da rede a ser utilizada. As conexões são realizadas levando em conta dentro das redes salvas no sistema de arquivos SPIFFS, a de maior sinal.
 
 <p align="center">
-  <img width="50%" height="50%" src="figures/placa.jpg">
+  <img width="75%" height="75%" src="figures/gcp.png">
 </p>
 
 ### Autonomia energética
 Foi implementado um sistema de controle de carga da bateria de LiPo(2500mA) junto a placa solar que regula com um MCP1700 low dropout a tensão de 3,3V.
 
 <p align="center">
-  <img width="50%" height="50%" src="figures/placa-solar.jpg">
+  <img width="50%" height="50%" src="figures/placa.jpg">
 </p>
 
 ### Protocolo MQTT

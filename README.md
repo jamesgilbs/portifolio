@@ -27,3 +27,10 @@ This is my portfolio and deals with subjects such as Statistics, Machine Learnin
 ***Projeto 1***
 - Utilização da biblioteca pytrends para busca de palavras chaves para SEO - https://github.com/jamesgilbs/portifolio/tree/main/seo - Otimização de negócio utilizando de dados do Google Trend com Python.
 - Business optimization using Google Trend data with Python.
+
+## Engenharia e IoT
+**Engineering and IoT**
+
+***Projeto 1***
+- Monitoramento de Condições Atmosféricas e Atmosfera Explosiva - https://github.com/jamesgilbs/portifolio/tree/main/iot-mqtt-atmosfera - Aquisição de dados para tomada de decisão automatizada, ou Storytelling dos mesmos.
+- Monitoring of Atmospheric Conditions and Explosive Atmosphere.
