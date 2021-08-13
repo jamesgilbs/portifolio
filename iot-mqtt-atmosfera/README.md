@@ -16,7 +16,7 @@ Os dados são adquiridos e enviados via Wifi, mas a estrutura do código permite
 </p>
 
 ### Autonomia energética
-Foi implementado um sistema de controle de carga da bateria de LiPo(2500mA) junto a placa solar que regula com um MCP1700 low dropout a tensão de 3,3V.
+Foi implementado um sistema de controle de carga da bateria de LiPo(2500mA) junto a placa solar que regula com um MCP1700 low dropout a tensão de 3,3V. Criando assim um sistema com possibilidade de independência energética e de localização.
 
 <p align="center">
   <img width="50%" height="50%" src="figures/placa.jpg">
