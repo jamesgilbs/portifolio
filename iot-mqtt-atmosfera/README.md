@@ -26,14 +26,14 @@ Foi implementado um sistema de controle de carga da bateria de LiPo(2500mA) junt
 Através desse incrível protocolo se publica ou se lê mensagens em JSON ou mesmo com cargas personificadas, que são sinais de sensores, informações digitais e dados. Os dados são enviados em tempo real. 
 
 <p align="center">
-  <img width="75%" height="75%" src="figures/mqtt.png">
+  <img width="65%" height="65%" src="figures/mqtt.png">
 </p>
 
 ### Subscrição MQTT
 A subscrição é a leitura da carga de um tópico como nessa Firmware de horários para acionamento das saídas 32 e 33. Ou mesmo acionamento manual das saídas. Como exemplo um ar condicionado, mas poderia ser um exaustor industrial para retirada de gases inflamáveis.
 
 <p align="center">
-  <img width="75%" height="75%" src="figures/sub.png">
+  <img width="65%" height="65%" src="figures/sub.png">
 </p>
 
 ### FreeRTOS
