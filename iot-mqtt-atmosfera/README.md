@@ -20,6 +20,6 @@ No código foram coordenadas as tarefas em dois núcleos sendo o Display o ponto
 Nesse demonstrativo de aplicação, o servidor com IP fixo em nuvem e o Broker MQTT Eclipse Mosquitto atuam de forma sempre a armazenarem os últimos dados de cada sensor ou comando, mesmo se o equipamento for desligado, os valores são salvos em arquivo em nuvem, trazendo segurança principalemte para aquisições críticas como industriais, médicas e militares. Os dados podem ser acessados com usuário e senha, se fazendo um subscribe no tópico a ser lido(sensor), ou em todos tópicos, sendo assim não geram dados de entrada no servidor. Os alarmes acrescentados na Firmware são enviados para o ESP32 e salvos em aqruivo interno na memória não volátil, e estes podem ser utilizados para acionamento das saídas. como exemplo foi lido em um celular os sinais adquiridos em tempo real.
 
 <p align="center">
-  <img width="75%" height="75%" src="figures/pairs.png">
+  <img width="" height="" src="figures/mqtt-cel.jpg">
 </p>
 
