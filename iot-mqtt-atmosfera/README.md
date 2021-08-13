@@ -12,7 +12,7 @@ Este projeto foi elaborado para monitoramento atmosférico através do ESP32 e s
 Os dados são adquiridos e enviados via Wifi, mas a estrutura do código permite fácil adaptação pra GSM, ou mesmo LoRa. O Wifi que já está implementado, utiliza-se da configuração por usuário, o ESP32 entra em modo de AP e busca as redes próximas e o usuário com o celular pode-se conectar a rede e inserir senha para acesso, ficando totalmente flexível e robusta a personalização da rede a ser utilizada. As conexões são realizadas levando em conta dentro das redes salvas no sistema de arquivos SPIFFS, a de maior sinal.
 
 <p align="center">
-  <img width="75%" height="75%" src="figures/gcp.png">
+  <img width="70%" height="70%" src="figures/gcp.png">
 </p>
 
 ### Autonomia energética
@@ -26,14 +26,14 @@ Foi implementado um sistema de controle de carga da bateria de LiPo(2500mA) junt
 Através desse incrível protocolo se publica ou se lê mensagens em JSON ou mesmo com cargas personificadas, que são sinais de sensores, informações digitais e dados. Os dados são enviados em tempo real. 
 
 <p align="center">
-  <img width="60%" height="60%" src="figures/mqtt.png">
+  <img width="65%" height="65%" src="figures/mqtt.png">
 </p>
 
 ### Subscrição MQTT
 A subscrição é a leitura da carga de um tópico como nessa Firmware de horários para acionamento das saídas 32 e 33. Ou mesmo acionamento manual das saídas. Como exemplo um ar condicionado, mas poderia ser um exaustor industrial para retirada de gases inflamáveis.
 
 <p align="center">
-  <img width="65%" height="65%" src="figures/sub.png">
+  <img width="60%" height="60%" src="figures/sub.png">
 </p>
 
 ### FreeRTOS
