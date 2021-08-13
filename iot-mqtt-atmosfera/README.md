@@ -18,10 +18,6 @@ Os dados são adquiridos e enviados via Wifi, mas a estrutura do código permite
 ### Autonomia energética
 Foi implementado um sistema de controle de carga da bateria de LiPo(2500mA) junto a placa solar que regula com um MCP1700 low dropout a tensão de 3,3V.
 
-<p align="center">
-  <img width="50%" height="50%" src="figures/placa-solar.jpg">
-</p>
-
 ### Protocolo MQTT
 Através desse incrível protocolo se publica ou se lê mensagens em JSON ou mesmo com cargas personificadas, que são sinais de sensores, informações digitais e dados. Os dados são enviados em tempo real. 
 
