@@ -5,7 +5,7 @@
 Esta Firmware foi elaborada para monitoramento atmosférico através do ESP32 e sensores BME280 e MQ2. São dados de altitude, humidade, temperatura e pressão atmosférica, também dados do sensor de gases inflamáveis, que podem indicar uma atmosfera explosiva. Esses dados podem ser trabalhados para acionar equipamentos, saídas ou mesmo serem analizados por sistemas que possam tomar uma decisão, através dos dados que são enviados via protocolo MQTT(baixo uso de dados para IoT) em servidor virtual linux instalado no Google Cloud Platform. Os sensores captam os sinais analógicos via barramento I2C e publicam através do ESP32 um tópico em nuvem que pode ser acessado por clientes em dispositivos móveis, PC, painéis de bordo, serem trabalhados através de Storytelling, Machine Learning, e tudo que se relaciona a trabalho com Big Data.
 
 <p align="center">
-  <img width="50%" height="50%" src="figures/gcp.jpg">
+  <img width="50%" height="50%" src="figures/gcp.png">
 </p>
 
 ### Aquisição e envio dos dados
