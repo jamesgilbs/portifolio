@@ -40,7 +40,7 @@ A subscrição é a leitura da carga de um tópico como nessa Firmware de horár
 No código foram coordenadas as tarefas em dois núcleos sendo o Display o ponto crítico de utilização, pois, devido a requisição de tempo para tarefas adjacentes, se não fosse utilizado um artifício para parlelismo da função do display, o mesmo seria congelado durante a excução de outra tarefa. Trabalhando em outro núcleo físico, ficou independente, principalmente porque mostra um relógio digital e é atualizado em tempo real via NTP pela internet.
 
 <p align="center">
-  <img width="75%" height="75%" src="figures/rtos.png">
+  <img width="85%" height="85%" src="figures/rtos.png">
 </p>
 
 ### Clientes de subscrição
