@@ -25,8 +25,23 @@ Foi implementado um sistema de controle de carga da bateria de LiPo(2500mA) junt
 ### Protocolo MQTT
 Através desse incrível protocolo se publica ou se lê mensagens em JSON ou mesmo com cargas personificadas, que são sinais de sensores, informações digitais e dados. Os dados são enviados em tempo real. 
 
+<p align="center">
+  <img width="75%" height="75%" src="figures/mqtt.png">
+</p>
+
+### Subscrição MQTT
+A subscrição é a leitura da carga de um tópico como nessa Firmware de horários para acionamento das saídas 32 e 33. Ou mesmo acionamento manual das saídas. Como exemplo um ar condicionado, mas poderia ser um exaustor industrial para retirada de gases inflamáveis.
+
+<p align="center">
+  <img width="75%" height="75%" src="figures/sub.png">
+</p>
+
 ### FreeRTOS
-No código foram coordenadas as tarefas em dois núcleos sendo o Display o ponto crítico de utilização, pois, devido a requisição de tempo para tarefas adjacentes, se não fosse utilizado um artifício para parlelismo da função do display, o mesmo seria congelado durante a excução de outra tarefa. Trabalhando em outro núcleo físico, ficou independente, principalmente porque mostra um relógio digital e é atualizado em tempo real.
+No código foram coordenadas as tarefas em dois núcleos sendo o Display o ponto crítico de utilização, pois, devido a requisição de tempo para tarefas adjacentes, se não fosse utilizado um artifício para parlelismo da função do display, o mesmo seria congelado durante a excução de outra tarefa. Trabalhando em outro núcleo físico, ficou independente, principalmente porque mostra um relógio digital e é atualizado em tempo real via NTP pela internet.
+
+<p align="center">
+  <img width="75%" height="75%" src="figures/rtos.png">
+</p>
 
 ### Clientes de subscrição
 Nesse demonstrativo de aplicação, o servidor com IP fixo em nuvem e o Broker MQTT Eclipse Mosquitto atuam de forma sempre a armazenarem os últimos dados de cada sensor ou comando, mesmo se o equipamento for desligado, os valores são salvos em arquivo em nuvem, trazendo segurança principalemte para aquisições críticas como industriais, médicas e militares. Os dados podem ser acessados com usuário e senha, se fazendo um subscribe no tópico a ser lido(sensor), ou em todos tópicos, sendo assim não geram dados de entrada no servidor. Os alarmes acrescentados na Firmware são enviados para o ESP32 e salvos em aqruivo interno na memória não volátil, e estes podem ser utilizados para acionamento das saídas. como exemplo foi lido em um celular os sinais adquiridos em tempo real.
