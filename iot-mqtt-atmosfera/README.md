@@ -26,7 +26,7 @@ Foi implementado um sistema de controle de carga da bateria de LiPo(2500mA) junt
 Através desse incrível protocolo se publica ou se lê mensagens em JSON ou mesmo com cargas personificadas, que são sinais de sensores, informações digitais e dados. Os dados são enviados em tempo real. 
 
 <p align="center">
-  <img width="65%" height="65%" src="figures/mqtt.png">
+  <img width="60%" height="60%" src="figures/mqtt.png">
 </p>
 
 ### Subscrição MQTT
