@@ -14,24 +14,24 @@
 ### Explanação do projeto no Knime
 
 <p align="center">
-  <img width="60%" height="60%" src="figures/workflow-knime.png">
+  <img width="100%" height="100%" src="figures/workflow-knime.png">
 </p>
 
 #### Aquisição dos dados
   Os dados foram adquiridos de uma base de dados da empresa Tripadvisor, sendo uma base já inserida no projeto e que está em lingua inglesa. Nesta fase inicial foram retirados os reviews que não faziam mensão ao local ou com dados faltantes. O banco de dados vai ser passado por módulos onde será filtrado, tratado, inserido em um modelo aprendido de traços de linguagem natural NLP até atingir o ponto de visualização final.
   
 <p align="center">
-  <img width="60%" height="60%" src="figures/preparacao-da-base.png">
+  <img width="40%" height="40%" src="figures/preparacao-da-base.png">
 </p>
 
 #### Fase de pré-processamento inicial
 
 <p align="center">
-  <img width="60%" height="60%" src="figures/pre-processamento.png">
+  <img width="40%" height="40%" src="figures/pre-processamento.png">
 </p>
 
 #### Fase de pré-processamento inicial
 
 <p align="center">
-  <img width="60%" height="60%" src="figures/pre-processamento.png">
+  <img width="40%" height="40%" src="figures/pre-processamento.png">
 </p>
