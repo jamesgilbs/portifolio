@@ -12,8 +12,26 @@
   O Tripadvisor, a maior plataforma de viagens do mundo*, ajuda 463 milhões de viajantes todos os meses** a tornar cada viagem a melhor de todas. Pessoas do mundo todo usam o site e o aplicativo do Tripadvisor para acessar mais de 859 milhões de avaliações e opiniões sobre 8,6 milhões de acomodações, restaurantes, experiências, companhias aéreas e cruzeiros. Seja na fase de planejamento ou durante a viagem, o Tripadvisor é usado para comparar preços baixos de hotéis, voos e cruzeiros, para reservar excursões e atrações badaladas, além de para fazer reservas em ótimos restaurantes. O Tripadvisor, o melhor companheiro de viagem, está disponível em 49 mercados e 28 idiomas. (texto oficial do site)
 
 ### Explanação do projeto no Knime
+
+<p align="center">
+  <img width="60%" height="60%" src="figures/workflow-knime.png">
+</p>
+
 #### Aquisição dos dados
   Os dados foram adquiridos de uma base de dados da empresa Tripadvisor, sendo uma base já inserida no projeto e que está em lingua inglesa. Nesta fase inicial foram retirados os reviews que não faziam mensão ao local ou com dados faltantes. O banco de dados vai ser passado por módulos onde será filtrado, tratado, inserido em um modelo aprendido de traços de linguagem natural NLP até atingir o ponto de visualização final.
+  
 <p align="center">
   <img width="60%" height="60%" src="figures/preparacao-da-base.png">
+</p>
+
+#### Fase de pré-processamento inicial
+
+<p align="center">
+  <img width="60%" height="60%" src="figures/pre-processamento.png">
+</p>
+
+#### Fase de pré-processamento inicial
+
+<p align="center">
+  <img width="60%" height="60%" src="figures/pre-processamento.png">
 </p>
