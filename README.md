@@ -30,7 +30,8 @@ This is my portfolio and deals with subjects such as Statistics, Machine Learnin
 - Business optimization using Google Trend data with Python.
 
 ***Projeto 2***
-- Sentimento dos reviews de usuários sobre restaurantes em lingua inglesa (Tripadvisor) com Knime - https://github.com/jamesgilbs/portifolio/tree/main/knime-sentimento-tripadvisor - Gera através de visualização de nuvens de palavra, verificação sobre os sentimentos dos usuários de restaurantes, segundo base de dados do Tripadvisor.
+- Sentimento dos reviews de usuários sobre restaurantes em lingua inglesa (Tripadvisor) com Knime - https://github.com/jamesgilbs/portifolio/tree/main/knime-sentimento-tripadvisor - Análise e visualização de dados sobre os sentimentos dos usuários de restaurantes, segundo base de dados do Tripadvisor, utilizando ferramenta de data science.
+- Analysis and visualization of data on the feelings of restaurant users, according to Tripadvisor database, using a data science tool.
 
 ## Engenharia e IoT
 **Engineering and IoT**
