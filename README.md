@@ -29,6 +29,9 @@ This is my portfolio and deals with subjects such as Statistics, Machine Learnin
 - Utilização da biblioteca pytrends para busca de palavras chaves para SEO - https://github.com/jamesgilbs/portifolio/tree/main/seo - Otimização de negócio utilizando de dados do Google Trend com Python.
 - Business optimization using Google Trend data with Python.
 
+***Projeto 2***
+- Sentimento dos reviews de usuários sobre restaurantes em lingua inglesa (Tripadvisor) com Knime - https://github.com/jamesgilbs/portifolio/tree/main/knime-sentimento-tripadvisor - Gera através de visualização de nuvens de palavra, verificação sobre os sentimentos dos usuários de restaurantes, segundo base de dados do Tripadvisor.
+
 ## Engenharia e IoT
 **Engineering and IoT**
 
