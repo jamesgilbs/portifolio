@@ -57,11 +57,11 @@
 #### Nuvem geral com todos adjetivos relevantes
 
 <p align="center">
-  <img width="60%" height="60%" src="figures/tagcloud-adjetivos-gerais.png">
+  <img width="45%" height="45%" src="figures/tagcloud-adjetivos-gerais.png">
 </p>
 
 #### Nuvem com sentimentos divididos em Positivos e Negativos
 
 <p align="center">
-  <img width="60%" height="60%" src="figures/tagcloud-sentimento.png">
+  <img width="45%" height="45%" src="figures/tagcloud-sentimento.png">
 </p>
