@@ -1,22 +1,15 @@
-## Modelo de Volatilidade Estocástica do IBOV
-
-[![R](https://img.shields.io/badge/RStudio-1.4-green)](#)
+## Sentimento dos reviews de usuários sobre restaurantes em lingua inglesa (Tripadvisor) com Knime
+[![K](https://img.shields.io/badge/Knime-4.4.1-yellow)](#)
 
 <a href='https://github.com/jamesgilbs/portifolio/tree/main/volatilidade-mve-retornos-ibov'><img src='https://github.com/jamesgilbs/portifolio/blob/main/volatilidade-mve-retornos-ibov/figures/indicator.jpg' align="left" height="139" /></a>
 
-  Este modelo foi elaborado com linguagem R, no ambiente do RStudio, para investigação do assunto proposto. O código utilizado para gerar todos resultados abaixo encontra-se no repositório.
+  Este modelo foi elaborado com o software ETL Knime, para estudo de Data Science. O código utilizado para gerar todos resultados abaixo encontra-se no repositório.
 
 ### O Problema de Negócio
-  A necessidade de entender a volatilidade tornou-se mais urgente com a evolução da economia moderna. O grau de incerteza e os riscos endógenos e exógenos ao mercado, sobretudo financeiro, demandavam que as análises se debruçassem também sobre a dispersão condicional dos indicadores.
+  Para se entender atráves de reviews de usuários, como está sendo visto o setor de restaurante, foi proposto este projeto, que no caso, avalia como resultado final duas Tag-clouds, uma que representa palavras chaves em uma nuvem aleatória, com grau de relevância determinado por TF-IDF(frequência e raridade) e outra que já demonstra com adjetivos positivos e negativos o sentimento de usuários e a relevância de cada termo no contexto geral da base pesquisada.
   
-  Os riscos exógenos são, em sua maioria, inerentes ao negócio, a cultura da região onde ocorre a operação da organização e obviamente os fenômenos naturais locais. Os riscos endógenos muitas vezes são associados a questões de processo, escolha estratégica por uma tecnologia em detrimento de outra, questões políticas, conflitos internos, depreciação de ativos, conscientização e cooperação dos funcionários.
-  
-  Alguns exemplos de riscos comuns são: interrupção da produção, perda de informações, intervenção de agente regulador, perda de competitividade, intervenção fiscal, integridade física de funcionários, contaminação do produto, impacto ambiental dentre dezenas de outros que vão possuir mais ou menos influência em cada organização e tipo de negócio.
-    
-  O Índice Bovespa ou IBOVESPA é um indicador representativo de uma carteira teórica das ações mais negociadas na Bolsa e, de modo geral, consegue captar o comportamento médio das cotações diárias na B3. 
-
-### Dados
-Os dados do Índice Bovespa foram coletados no site Yahoo Finance, com recorte temporal de 01/01/2008 a 01/06/2021 (n = 162), e periodicidade mensal.
+### Sobre o Tripadvisor
+  O Tripadvisor, a maior plataforma de viagens do mundo*, ajuda 463 milhões de viajantes todos os meses** a tornar cada viagem a melhor de todas. Pessoas do mundo todo usam o site e o aplicativo do Tripadvisor para acessar mais de 859 milhões de avaliações e opiniões sobre 8,6 milhões de acomodações, restaurantes, experiências, companhias aéreas e cruzeiros. Seja na fase de planejamento ou durante a viagem, o Tripadvisor é usado para comparar preços baixos de hotéis, voos e cruzeiros, para reservar excursões e atrações badaladas, além de para fazer reservas em ótimos restaurantes. O Tripadvisor, o melhor companheiro de viagem, está disponível em 49 mercados e 28 idiomas. (texto oficial do site)
 
 <p align="center">
   <img width="" height="" src="figures/head.png">
