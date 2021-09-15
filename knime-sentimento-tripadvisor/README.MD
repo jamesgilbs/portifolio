@@ -14,5 +14,5 @@
 ### Explanação do projeto no Knime
 #### Aquisição dos dados
 <p align="center">
-  <img width="45%" height="45%" src="figures/preparacao-da-base.png">
+  <img width="55%" height="55%" src="figures/preparacao-da-base.png">
 </p>
