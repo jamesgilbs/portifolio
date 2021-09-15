@@ -7,7 +7,7 @@
 [![K](https://img.shields.io/badge/Knime-4.4.1-yellow)](#)
 [![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](LICENSE)
 
-Este é meu portfólio e trata de assuntos como Estatística, Machine Learning, Deep Learning e Engenharia Eletrônica para automação e embarcados. São projetos em C/C++, Python e R, aplicados em soluções de problemas diversos, desde Áreas de Negócio, Mercado Financeiro e Internet das coisas (IoT).
+Este é meu portfólio e trata de assuntos como Estatística, Machine Learning, Deep Learning e Engenharia Eletrônica para automação e embarcados. São projetos em C/C++, Python, R e Knime, aplicados em soluções de problemas diversos, desde Áreas de Negócio, Mercado Financeiro e Internet das coisas (IoT).
 
 This is my portfolio and deals with subjects such as Statistics, Machine Learning, Deep Learning and Electronic Engineering for automation and embedded. They are projects in C/C++, Python and R, applied to various problem solving, from Business Areas, Financial Market and Internet of Things (IoT).
 
