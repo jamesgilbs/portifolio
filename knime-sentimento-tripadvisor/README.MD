@@ -13,7 +13,7 @@
 
 ### Explanação do projeto no Knime
 #### Aquisição dos dados
-  Os dados foram adquiridos de uma base de dados da empresa Tripadvisor, sendo uma base já inserida no projeto e que está em lingua englesa.
+  Os dados foram adquiridos de uma base de dados da empresa Tripadvisor, sendo uma base já inserida no projeto e que está em lingua englesa. Nesta fase inicial foram retirados os reviews que não faziam mensão ao local ou com dados faltantes.
 <p align="center">
-  <img width="55%" height="55%" src="figures/preparacao-da-base.png">
+  <img width="65%" height="65%" src="figures/preparacao-da-base.png">
 </p>
