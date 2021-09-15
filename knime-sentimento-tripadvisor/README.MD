@@ -45,23 +45,23 @@
 #### Fase de pré-processamento final
 
 <p align="center">
-  <img width="30%" height="30%" src="figures/pre-processamento-final.png">
+  <img width="40%" height="40%" src="figures/pre-processamento-final.png">
 </p>
 
 #### Relevância e processamento
 
 <p align="center">
-  <img width="30%" height="30%" src="figures/processamento-visualizacao.png">
+  <img width="50%" height="50%" src="figures/processamento-visualizacao.png">
 </p>
 
 #### Nuvem geral com todos adjetivos relevantes
 
 <p align="center">
-  <img width="30%" height="30%" src="figures/tagcloud-adjetivos-gerais.png">
+  <img width="80%" height="80%" src="figures/tagcloud-adjetivos-gerais.png">
 </p>
 
 #### Nuvem com sentimentos divididos em Positivos e Negativos
 
 <p align="center">
-  <img width="30%" height="30%" src="figures/tagcloud-sentimento.png">
+  <img width="80%" height="80%" src="figures/tagcloud-sentimento.png">
 </p>
