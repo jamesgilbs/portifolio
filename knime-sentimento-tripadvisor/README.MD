@@ -1,7 +1,7 @@
 ## Sentimento dos reviews de usuários sobre restaurantes em lingua inglesa (Tripadvisor) com Knime
 [![K](https://img.shields.io/badge/Knime-4.4.1-yellow)](#)
 
-<a href='https://github.com/jamesgilbs/portifolio/tree/main/volatilidade-mve-retornos-ibov'><img src='https://github.com/jamesgilbs/portifolio/blob/main/volatilidade-mve-retornos-ibov/figures/indicator.jpg' align="left" height="139" /></a>
+<a href='https://github.com/jamesgilbs/portifolio/tree/main/knime-sentimento-tripadvisor'><img src='https://github.com/jamesgilbs/portifolio/blob/main/knime-sentimento-tripadvisor/figures/trip.jpg' align="left" height="139" /></a>
 
   Este modelo foi elaborado com o software ETL Knime, para estudo de Data Science. O código utilizado para gerar todos resultados abaixo encontra-se no repositório.
 
