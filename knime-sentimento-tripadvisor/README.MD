@@ -31,25 +31,29 @@
 </p>
 
 #### Fase de pré-processamento inicial
-
+  Nesta fase faz-se o tageamento das palavras nas condições fixadas, criando rótulos como classes gramaticais, separação em tipos e intensões.
+  
 <p align="center">
   <img width="80%" height="80%" src="figures/pre-processamento.png">
 </p>
 
 #### Separação dos sentimentos em Positivos e Negativos
-
+   Usando tabelas de dicionários da lingua inglesa, separa-se as palavras em positivas e negativas.
+   
 <p align="center">
-  <img width="30%" height="30%" src="figures/dicionario-sentimento.png">
+  <img width="32%" height="32%" src="figures/dicionario-sentimento.png">
 </p>
 
 #### Fase de pré-processamento final
-
+  Aqui todas palavras serão convertidas em minúsculo e retirado partes de conjugação e deixado gramaticamente somente o radical da palavra.
+  
 <p align="center">
-  <img width="40%" height="40%" src="figures/pre-processamento-final.png">
+  <img width="35%" height="35%" src="figures/pre-processamento-final.png">
 </p>
 
 #### Relevância e processamento
-
+  Nesta fase se faz a contagem para a relevância de cada radical de palavra.
+  
 <p align="center">
   <img width="50%" height="50%" src="figures/processamento-visualizacao.png">
 </p>
