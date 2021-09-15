@@ -27,11 +27,5 @@
 #### Fase de pré-processamento inicial
 
 <p align="center">
-  <img width="40%" height="40%" src="figures/pre-processamento.png">
-</p>
-
-#### Fase de pré-processamento inicial
-
-<p align="center">
-  <img width="40%" height="40%" src="figures/pre-processamento.png">
+  <img width="60%" height="60%" src="figures/pre-processamento.png">
 </p>
