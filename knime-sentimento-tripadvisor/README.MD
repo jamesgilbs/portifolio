@@ -27,7 +27,7 @@
 #### Base tranformada em documento
 
 <p align="center">
-  <img width="100%" height="100%" src="figures/review-documento.png">
+  <img width="90%" height="90%" src="figures/review-documento.png">
 </p>
 
 #### Fase de pré-processamento inicial
@@ -39,5 +39,5 @@
 #### Separação dos sentimentos em Positivos e Negativos
 
 <p align="center">
-  <img width="40%" height="40%" src="figures/dicionario-sentimento.png">
+  <img width="30%" height="30%" src="figures/dicionario-sentimento.png">
 </p>
