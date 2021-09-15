@@ -13,7 +13,7 @@
 
 ### Explanação do projeto no Knime
 #### Aquisição dos dados
-  Os dados foram adquiridos de uma base de dados da empresa Tripadvisor, sendo uma base já inserida no projeto e que está em lingua englesa. Nesta fase inicial foram retirados os reviews que não faziam mensão ao local ou com dados faltantes.
+  Os dados foram adquiridos de uma base de dados da empresa Tripadvisor, sendo uma base já inserida no projeto e que está em lingua inglesa. Nesta fase inicial foram retirados os reviews que não faziam mensão ao local ou com dados faltantes. O banco de dados vai ser passado por módulos onde será filtrado, tratado, inserido em um modelo aprendido de traços de linguagem natural NLP até atingir o ponto de visualização final.
 <p align="center">
   <img width="60%" height="60%" src="figures/preparacao-da-base.png">
 </p>
