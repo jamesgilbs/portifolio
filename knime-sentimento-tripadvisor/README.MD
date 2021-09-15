@@ -41,7 +41,7 @@
    Usando tabelas de dicionários da lingua inglesa, separa-se as palavras em positivas e negativas.
    
 <p align="center">
-  <img width="35%" height="35%" src="figures/dicionario-sentimento.png">
+  <img width="32%" height="32%" src="figures/dicionario-sentimento.png">
 </p>
 
 #### Fase de pré-processamento final
