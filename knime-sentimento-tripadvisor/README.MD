@@ -1,5 +1,5 @@
 ## Sentimento de reviews de usuários de restaurantes (Tripadivasor) com Knime
-[![R](https://img.shields.io/badge/RStudio-1.4-green)](#)
+[![K](https://img.shields.io/badge/Knime-4.4.1-yellow)](#)
 
 <a href='https://github.com/jamesgilbs/portifolio/tree/main/volatilidade-mve-retornos-ibov'><img src='https://github.com/jamesgilbs/portifolio/blob/main/volatilidade-mve-retornos-ibov/figures/indicator.jpg' align="left" height="139" /></a>
 
