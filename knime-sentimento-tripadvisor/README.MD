@@ -39,5 +39,29 @@
 #### Separação dos sentimentos em Positivos e Negativos
 
 <p align="center">
-  <img width="25%" height="25%" src="figures/dicionario-sentimento.png">
+  <img width="30%" height="30%" src="figures/dicionario-sentimento.png">
+</p>
+
+#### Fase de pré-processamento final
+
+<p align="center">
+  <img width="30%" height="30%" src="figures/pre-processamento-final.png">
+</p>
+
+#### Relevância e processamento
+
+<p align="center">
+  <img width="30%" height="30%" src="figures/processamento-visualizacao.png">
+</p>
+
+#### Nuvem geral com todos adjetivos relevantes
+
+<p align="center">
+  <img width="30%" height="30%" src="figures/tagcloud-adjetivos-gerais.png">
+</p>
+
+#### Nuvem com sentimentos divididos em Positivos e Negativos
+
+<p align="center">
+  <img width="30%" height="30%" src="figures/tagcloud-sentimento.png">
 </p>
