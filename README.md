@@ -5,6 +5,7 @@
 [![Python 3.6](https://img.shields.io/badge/Python-3.8-blue.svg)](#)
 [![R](https://img.shields.io/badge/RStudio-1.4-green)](#)
 [![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)](LICENSE)
+[![K](https://img.shields.io/badge/Knime-4.4.1-yellow)](#)
 
 Este é meu portfólio e trata de assuntos como Estatística, Machine Learning, Deep Learning e Engenharia Eletrônica para automação e embarcados. São projetos em C/C++, Python e R, aplicados em soluções de problemas diversos, desde Áreas de Negócio, Mercado Financeiro e Internet das coisas (IoT).
 
