@@ -39,5 +39,5 @@
 #### Separação dos sentimentos em Positivos e Negativos
 
 <p align="center">
-  <img width="30%" height="30%" src="figures/dicionario-sentimento.png">
+  <img width="35%" height="35%" src="figures/dicionario-sentimento.png">
 </p>
