@@ -48,7 +48,7 @@
   Aqui todas palavras serão convertidas em minúsculo e retirado partes de conjugação e deixado gramaticamente somente o radical da palavra.
   
 <p align="center">
-  <img width="40%" height="40%" src="figures/pre-processamento-final.png">
+  <img width="35%" height="35%" src="figures/pre-processamento-final.png">
 </p>
 
 #### Relevância e processamento
