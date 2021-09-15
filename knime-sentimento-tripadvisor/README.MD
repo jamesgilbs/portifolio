@@ -14,7 +14,7 @@
 ### Explanação do projeto no Knime
 
 <p align="center">
-  <img width="120%" height="120%" src="figures/workflow-knime.png">
+  <img width="100%" height="100%" src="figures/workflow-knime.png">
 </p>
 
 #### Aquisição dos dados
